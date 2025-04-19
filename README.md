@@ -55,4 +55,4 @@ python src/main.py
 
 ## Contributing
 
-Feel free to submit issues or pull requests if you have suggestions or improvements!#
+Feel free to submit issues or pull requests if you have suggestions or improvements!
